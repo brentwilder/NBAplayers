@@ -14,4 +14,4 @@ Final outputs:
 •	Global density map and word cloud of players birth state
 •	Split this analysis up for each decade, to track changes with respect to time
 
-[nbaimage](https://s3.amazonaws.com/medill.wordpress.offload/WP+Media+Folder+-+medill-reports-chicago/wp-content/uploads/sites/3/2020/02/Kobe-as-NBA-Logo.jpg)
+![nbaimage](https://s3.amazonaws.com/medill.wordpress.offload/WP+Media+Folder+-+medill-reports-chicago/wp-content/uploads/sites/3/2020/02/Kobe-as-NBA-Logo.jpg)
