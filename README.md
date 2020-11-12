@@ -9,9 +9,9 @@ Project Goal: Using NBA players data from 1950 to 2017, we would like to present
 Data Source: https://www.kaggle.com/drgilermo/nba-players-stats 
 
 Final outputs: 
-•	Most frequent player names
-•	Word cloud of where players went to college
-•	U.S. density map of players birth state
-•	Grouped timeseries charts with respect to time
+•	Most frequent player names (BW)
+•	Word cloud of where players went to college (AW)
+•	U.S. density map of players birth state (AW)
+•	Grouped timeseries charts with respect to time (BW)
 
 ![nbaimage](https://s3.amazonaws.com/medill.wordpress.offload/WP+Media+Folder+-+medill-reports-chicago/wp-content/uploads/sites/3/2020/02/Kobe-as-NBA-Logo.jpg)
